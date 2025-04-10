@@ -84,48 +84,40 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 
 <br/>
 
-### 2) 너비우선탐색 & 깊이우선탐색 (BFS & DFS) 
-<br/>
-
-### 3) 재귀 (Recursion)
+### 2) 재귀 (Recursion)
 
 <br/>
 
-### 4) 정렬 (Sort) 
+### 3) 정렬 (Sort) 
 
  <br/>
 
-### 5) 동적계획법 (Dynamic Programming) 
+### 4) 완전탐색
 
 <br/>
 
-### 6) 그리디 (Greedy)
+### 5) 이진탐색 (Binary Search)
 
 <br/>
 
-### 7) 이진탐색 (Binary Search)
+### 6) 분할정복
 
 <br/>
 
-### 8) 이진탐색 (Two Pointer)
+### 7) 그래프 (Graph)
+<br/>
+
+### 8) BFS/DFS
+<br/>
+
+### 9) 동적계획법 (Dynamic Programming) 
 
 <br/>
 
-### 9) 해시 (Hash)
+### 10) 그리디 (Greedy)
 
 <br/>
 
-### 10) 이진검색트리 (Binary Search Tree)
-
-<br/>
-
-### 11) 백트래킹 (Back Tracking)
-
-<br/>
-
-### 12) 그래프 (Graph)
-<br/>
-<br/>
 
 ## 5. 참고자료
   - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
